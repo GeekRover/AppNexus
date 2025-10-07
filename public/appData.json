@@ -1,0 +1,542 @@
+[
+  {
+    "image": "https://static.thenounproject.com/png/3629690-200.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 1,
+    "description": "Fast, simple, and secure messaging app for instant communication worldwide.",
+    "size": 120,
+    "reviews": 135000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 115000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/1181418-200.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Connect with friends, share moments, and stay updated with global communities.",
+    "size": 250,
+    "reviews": 121000000,
+    "ratingAvg": 4.1,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4800000 },
+      { "name": "2 star", "count": 2600000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 81000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/4557301-200.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 3,
+    "description": "Share your life through photos and videos with people who matter most.",
+    "size": 220,
+    "reviews": 110000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 7000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 78000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/1605121-200.png",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 4,
+    "description": "Join conversations, discover breaking news, and connect with communities worldwide.",
+    "size": 190,
+    "reviews": 92000000,
+    "ratingAvg": 3.9,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 3500000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 47500000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/2411278-200.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 5,
+    "description": "Create and discover short videos with music, creativity, and fun.",
+    "size": 150,
+    "reviews": 98000000,
+    "ratingAvg": 4.6,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 70000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/2411278-200.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "Watch, stream, and share videos across the world’s largest video platform.",
+    "size": 160,
+    "reviews": 150000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 3000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 28000000 },
+      { "name": "5 star", "count": 107000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/1958207-200.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "Cloud-based messaging app focused on speed and security.",
+    "size": 90,
+    "reviews": 42000000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 31000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/4950615-200.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 8,
+    "description": "Share moments instantly through photos, stories, and chat.",
+    "size": 180,
+    "reviews": 58000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1300000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 37000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/6249987-200.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 9,
+    "description": "Stream millions of songs, podcasts, and playlists anytime, anywhere.",
+    "size": 110,
+    "reviews": 88000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 66500000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/5083915-200.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 10,
+    "description": "Stream award-winning movies, TV shows, and documentaries.",
+    "size": 140,
+    "reviews": 72000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 13000000 },
+      { "name": "5 star", "count": 52000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/7274215-200.png",
+    "title": "Zoom Cloud Meetings",
+    "companyName": "Zoom Video Communications, Inc.",
+    "id": 11,
+    "description": "Video meetings and team collaboration made easy.",
+    "size": 95,
+    "reviews": 60000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 44000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/4213486-200.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 12,
+    "description": "Navigate and explore your world with real-time GPS and traffic updates.",
+    "size": 180,
+    "reviews": 130000000,
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 14000000 },
+      { "name": "5 star", "count": 110000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/4950704-200.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 13,
+    "description": "Secure email by Google—spam protection, notification, and integration with Google services.",
+    "size": 60,
+    "reviews": 50000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 41800000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/5083915-200.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 14,
+    "description": "Chat, talk, and hang out with friends and communities in voice, video, and text.",
+    "size": 80,
+    "reviews": 45000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 38700000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/3400000-200.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "id": 15,
+    "description": "Discover ideas and inspirations — recipes, home design, fashion & more on Pinterest.",
+    "size": 70,
+    "reviews": 30000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 25700000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/2435492-200.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 16,
+    "description": "Learn languages for free. Fun lessons with bite-sized modules.",
+    "size": 50,
+    "reviews": 40000000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3600000 },
+      { "name": "5 star", "count": 35000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/3040183-200.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "id": 17,
+    "description": "Team communication and collaboration in one place.",
+    "size": 95,
+    "reviews": 25000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 21600000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/4563314-200.png",
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "id": 18,
+    "description": "Organize your projects, tasks, and team workflows visually.",
+    "size": 40,
+    "reviews": 20000000,
+    "ratingAvg": 4.5,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 18200000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/5890141-200.png",
+    "title": "Evernote",
+    "companyName": "Evernote Corporation",
+    "id": 19,
+    "description": "Write notes, organize your life, and keep things synced across devices.",
+    "size": 70,
+    "reviews": 18000000,
+    "ratingAvg": 4.2,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 16600000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/7402969-200.png",
+    "title": "Pocket",
+    "companyName": "Read It Later, Inc.",
+    "id": 20,
+    "description": "Save articles, videos, and stories to view later, offline.",
+    "size": 20,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": 150000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 11100000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/4606716-200.png",
+    "title": "Shopify",
+    "companyName": "Shopify Inc.",
+    "id": 21,
+    "description": "Build your online store and manage orders, products, and customers.",
+    "size": 85,
+    "reviews": 8000000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 7300000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/6840000-200.png",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 22,
+    "description": "Collaboration, video meetings, calls, and chat for teams.",
+    "size": 120,
+    "reviews": 22000000,
+    "ratingAvg": 4.1,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 18200000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/5820000-200.png",
+    "title": "Adobe Lightroom",
+    "companyName": "Adobe Inc.",
+    "id": 23,
+    "description": "Powerful photo editing and camera tools in one app.",
+    "size": 150,
+    "reviews": 14000000,
+    "ratingAvg": 4.5,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 12600000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/5050000-200.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 24,
+    "description": "Store files, access anywhere, and collaborate in the cloud.",
+    "size": 90,
+    "reviews": 80000000,
+    "ratingAvg": 4.6,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 74000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/4150000-200.png",
+    "title": "Google Photos",
+    "companyName": "Google LLC",
+    "id": 25,
+    "description": "Back up your photos and videos and access them from any device.",
+    "size": 95,
+    "reviews": 70000000,
+    "ratingAvg": 4.7,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 63700000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/6680000-200.png",
+    "title": "Microsoft Outlook",
+    "companyName": "Microsoft Corporation",
+    "id": 26,
+    "description": "Email and calendar together — get things done in one app.",
+    "size": 85,
+    "reviews": 45000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 43000000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/7200000-200.png",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon.com, Inc.",
+    "id": 27,
+    "description": "Shop millions of products, get deals, and manage your orders.",
+    "size": 100,
+    "reviews": 50000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 46500000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/7410000-200.png",
+    "title": "Dropbox",
+    "companyName": "Dropbox, Inc.",
+    "id": 28,
+    "description": "Securely sync, store, and share your files.",
+    "size": 70,
+    "reviews": 25000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 80000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 23100000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/7420000-200.png",
+    "title": "Waze",
+    "companyName": "Google LLC",
+    "id": 29,
+    "description": "Community-based traffic & navigation app with real-time alerts.",
+    "size": 85,
+    "reviews": 20000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 18800000 }
+    ]
+  },
+  {
+    "image": "https://static.thenounproject.com/png/7430000-200.png",
+    "title": "Shazam",
+    "companyName": "Apple Inc.",
+    "id": 30,
+    "description": "Identify songs, get lyrics, and discover artists instantly.",
+    "size": 45,
+    "reviews": 30000000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 29500000 }
+    ]
+  }
+]
