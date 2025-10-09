@@ -4,6 +4,7 @@ import { FiDownload } from "react-icons/fi";
 import { FaRegStar } from "react-icons/fa";
 
 const AllApps = ({data}) => {
+
     return (
         <Link to={`/${data.id}`}>
         <div className="text-center bg-white rounded-xl shadow-xl p-5 space-y-2 ">

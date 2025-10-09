@@ -1,22 +1,38 @@
 import { FaAppStoreIos } from "react-icons/fa";
 import { FaGooglePlay } from "react-icons/fa";
-import hero from '/assets/hero.png'
+import hero from "/assets/hero.png";
 import { Suspense } from "react";
 import Trending from "../Components/Trending";
 import { Link, useLoaderData } from "react-router";
 // const dataPromise = fetch('appData.json').then(res => res.json())
 const Home = () => {
-  const appData = useLoaderData()
+  const appData = useLoaderData();
   return (
     <div>
       <section className="flex flex-col max-w-7xl mx-auto justify-center items-center gap-6 text-center my-10">
         <h1 className="text-4xl md:text-7xl font-black">
-          We Build <br /> <span className="text-purple-600">Productive</span> Apps
+          We Build <br /> <span className="text-purple-600">Productive</span>{" "}
+          Apps
         </h1>
-        <p className="text-[#627382] text-sm md:text-base">At AppNexus.io, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br /> Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
+        <p className="text-[#627382] text-sm md:text-base">
+          At AppNexus.io, we craft innovative apps designed to make everyday
+          life simpler, smarter, and more exciting. <br /> Our goal is to turn
+          your ideas into digital experiences that truly make an impact.
+        </p>
         <span className="flex gap-3 ">
-            <button className="btn text-2xl"> <FaGooglePlay /> Google Play</button>
-            <button className="btn text-2xl"> <FaAppStoreIos />App Store</button>
+          <a href="https://play.google.com/">
+            <button className="btn text-2xl">
+              {" "}
+              <FaGooglePlay /> Google Play
+            </button>
+          </a>
+          <a href="https://www.apple.com/in/app-store/">
+            <button className="btn text-2xl">
+              {" "}
+              <FaAppStoreIos />
+              App Store
+            </button>
+          </a>
         </span>
       </section>
       {/* heroimg section */}
@@ -25,37 +41,43 @@ const Home = () => {
       </section>
       {/* feature */}
       <section className="w-full bg-purple-700 text-white flex flex-col text-center justify-center gap-10 items-center md:py-20 mb-20">
-            <h1 className="font-bold text-5xl">Trusted by Millions, Built for You</h1>
-            <div className="flex flex-col md:flex-row gap-10  md:gap-36">
-                <span className="space-y-4">
-                    <h1>Total Downloads</h1>
-                    <h1 className="font-extrabold text-6xl">29.6M</h1>
-                    <h1>21% more than last month</h1>
-                </span>
-                <span className="space-y-4">
-                    <h1>Total Reviews</h1>
-                    <h1 className="font-extrabold text-6xl">906K</h1>
-                    <h1>46% more than last month</h1>
-                </span>
-                <span className="space-y-4">
-                    <h1>Active Apps</h1>
-                    <h1 className="font-extrabold text-6xl">132+</h1>
-                    <h1>31 more will Launch</h1>
-                </span>
-            </div>
+        <h1 className="font-bold text-5xl">
+          Trusted by Millions, Built for You
+        </h1>
+        <div className="flex flex-col md:flex-row gap-10  md:gap-36">
+          <span className="space-y-4">
+            <h1>Total Downloads</h1>
+            <h1 className="font-extrabold text-6xl">29.6M</h1>
+            <h1>21% more than last month</h1>
+          </span>
+          <span className="space-y-4">
+            <h1>Total Reviews</h1>
+            <h1 className="font-extrabold text-6xl">906K</h1>
+            <h1>46% more than last month</h1>
+          </span>
+          <span className="space-y-4">
+            <h1>Active Apps</h1>
+            <h1 className="font-extrabold text-6xl">132+</h1>
+            <h1>31 more will Launch</h1>
+          </span>
+        </div>
       </section>
       {/* trending Apps */}
       <section className=" mx-auto flex flex-col justify-center items-center">
         <div className="text-center space-y-4 mb-10">
-            <h1 className=" text-3xl md:text-5xl font-bold ">Trending Apps</h1>
-            <p className="text-[#627382]">Explore All Trending Apps on the Market developed by us</p>
+          <h1 className=" text-3xl md:text-5xl font-bold ">Trending Apps</h1>
+          <p className="text-[#627382]">
+            Explore All Trending Apps on the Market developed by us
+          </p>
         </div>
         <div className="mb-5">
-            {/* <Suspense fallback={<h1>Loading....</h1>}> */}
-                <Trending appData={appData}></Trending>
-            {/* </Suspense> */}
+          {/* <Suspense fallback={<h1>Loading....</h1>}> */}
+          <Trending appData={appData}></Trending>
+          {/* </Suspense> */}
         </div>
-        <Link to={"apps"}><button className="btn btn-secondary mb-5">Show All</button></Link>
+        <Link to={"apps"}>
+          <button className="btn btn-secondary mb-5">Show All</button>
+        </Link>
       </section>
     </div>
   );
