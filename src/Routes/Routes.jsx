@@ -53,6 +53,7 @@ const router = createBrowserRouter([
         </div>,
         Component: AppDetails,
       },
+      
     ],
   },
 ]);

@@ -8,13 +8,28 @@
     "size": 120,
     "reviews": "135M",
     "ratingAvg": 4.3,
-    "downloads": "5M",
+    "downloads": 5000000,
     "ratings": [
-      { "name": "1 star", "count": 2500000 },
-      { "name": "2 star", "count": 1500000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 12000000 },
-      { "name": "5 star", "count": 115000000 }
+      {
+        "name": "1 star",
+        "count": 2500000
+      },
+      {
+        "name": "2 star",
+        "count": 1500000
+      },
+      {
+        "name": "3 star",
+        "count": 4000000
+      },
+      {
+        "name": "4 star",
+        "count": 12000000
+      },
+      {
+        "name": "5 star",
+        "count": 115000000
+      }
     ]
   },
   {
@@ -26,13 +41,28 @@
     "size": 250,
     "reviews": "121M",
     "ratingAvg": 4.1,
-    "downloads": "3M",
+    "downloads": 3000000,
     "ratings": [
-      { "name": "1 star", "count": 4800000 },
-      { "name": "2 star", "count": 2600000 },
-      { "name": "3 star", "count": 8000000 },
-      { "name": "4 star", "count": 25000000 },
-      { "name": "5 star", "count": 81000000 }
+      {
+        "name": "1 star",
+        "count": 4800000
+      },
+      {
+        "name": "2 star",
+        "count": 2600000
+      },
+      {
+        "name": "3 star",
+        "count": 8000000
+      },
+      {
+        "name": "4 star",
+        "count": 25000000
+      },
+      {
+        "name": "5 star",
+        "count": 81000000
+      }
     ]
   },
   {
@@ -44,13 +74,28 @@
     "size": 220,
     "reviews": "110M",
     "ratingAvg": 4.5,
-    "downloads": "5M",
+    "downloads": 5000000,
     "ratings": [
-      { "name": "1 star", "count": 3000000 },
-      { "name": "2 star", "count": 2000000 },
-      { "name": "3 star", "count": 7000000 },
-      { "name": "4 star", "count": 20000000 },
-      { "name": "5 star", "count": 78000000 }
+      {
+        "name": "1 star",
+        "count": 3000000
+      },
+      {
+        "name": "2 star",
+        "count": 2000000
+      },
+      {
+        "name": "3 star",
+        "count": 7000000
+      },
+      {
+        "name": "4 star",
+        "count": 20000000
+      },
+      {
+        "name": "5 star",
+        "count": 78000000
+      }
     ]
   },
   {
@@ -62,13 +107,28 @@
     "size": 190,
     "reviews": "92M",
     "ratingAvg": 3.9,
-    "downloads": "10M",
+    "downloads": 10000000,
     "ratings": [
-      { "name": "1 star", "count": 6000000 },
-      { "name": "2 star", "count": 3500000 },
-      { "name": "3 star", "count": 10000000 },
-      { "name": "4 star", "count": 25000000 },
-      { "name": "5 star", "count": 47500000 }
+      {
+        "name": "1 star",
+        "count": 6000000
+      },
+      {
+        "name": "2 star",
+        "count": 3500000
+      },
+      {
+        "name": "3 star",
+        "count": 10000000
+      },
+      {
+        "name": "4 star",
+        "count": 25000000
+      },
+      {
+        "name": "5 star",
+        "count": 47500000
+      }
     ]
   },
   {
@@ -80,13 +140,28 @@
     "size": 150,
     "reviews": "98M",
     "ratingAvg": 4.6,
-    "downloads": "30M",
+    "downloads": 30000000,
     "ratings": [
-      { "name": "1 star", "count": 2500000 },
-      { "name": "2 star", "count": 1800000 },
-      { "name": "3 star", "count": 6000000 },
-      { "name": "4 star", "count": 18000000 },
-      { "name": "5 star", "count": 70000000 }
+      {
+        "name": "1 star",
+        "count": 2500000
+      },
+      {
+        "name": "2 star",
+        "count": 1800000
+      },
+      {
+        "name": "3 star",
+        "count": 6000000
+      },
+      {
+        "name": "4 star",
+        "count": 18000000
+      },
+      {
+        "name": "5 star",
+        "count": 70000000
+      }
     ]
   },
   {
@@ -98,13 +173,28 @@
     "size": 160,
     "reviews": "150M",
     "ratingAvg": 4.5,
-    "downloads": "100M",
+    "downloads": 100000000,
     "ratings": [
-      { "name": "1 star", "count": 4000000 },
-      { "name": "2 star", "count": 3000000 },
-      { "name": "3 star", "count": 8000000 },
-      { "name": "4 star", "count": 28000000 },
-      { "name": "5 star", "count": 107000000 }
+      {
+        "name": "1 star",
+        "count": 4000000
+      },
+      {
+        "name": "2 star",
+        "count": 3000000
+      },
+      {
+        "name": "3 star",
+        "count": 8000000
+      },
+      {
+        "name": "4 star",
+        "count": 28000000
+      },
+      {
+        "name": "5 star",
+        "count": 107000000
+      }
     ]
   },
   {
@@ -116,13 +206,28 @@
     "size": 90,
     "reviews": "42M",
     "ratingAvg": 4.7,
-    "downloads": "15M",
+    "downloads": 15000000,
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 300000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 31000000 }
+      {
+        "name": "1 star",
+        "count": 500000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 2000000
+      },
+      {
+        "name": "4 star",
+        "count": 8000000
+      },
+      {
+        "name": "5 star",
+        "count": 31000000
+      }
     ]
   },
   {
@@ -134,13 +239,28 @@
     "size": 180,
     "reviews": "58M",
     "ratingAvg": 4.2,
-    "downloads": "17M",
+    "downloads": 17000000,
     "ratings": [
-      { "name": "1 star", "count": 2000000 },
-      { "name": "2 star", "count": 1300000 },
-      { "name": "3 star", "count": 5000000 },
-      { "name": "4 star", "count": 12000000 },
-      { "name": "5 star", "count": 37000000 }
+      {
+        "name": "1 star",
+        "count": 2000000
+      },
+      {
+        "name": "2 star",
+        "count": 1300000
+      },
+      {
+        "name": "3 star",
+        "count": 5000000
+      },
+      {
+        "name": "4 star",
+        "count": 12000000
+      },
+      {
+        "name": "5 star",
+        "count": 37000000
+      }
     ]
   },
   {
@@ -152,13 +272,28 @@
     "size": 110,
     "reviews": "88M",
     "ratingAvg": 4.4,
-    "downloads": "20M",
+    "downloads": 20000000,
     "ratings": [
-      { "name": "1 star", "count": 1500000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 16000000 },
-      { "name": "5 star", "count": 66500000 }
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 1000000
+      },
+      {
+        "name": "3 star",
+        "count": 4000000
+      },
+      {
+        "name": "4 star",
+        "count": 16000000
+      },
+      {
+        "name": "5 star",
+        "count": 66500000
+      }
     ]
   },
   {
@@ -170,13 +305,28 @@
     "size": 130,
     "reviews": "32M",
     "ratingAvg": 4.3,
-    "downloads": "6M",
+    "downloads": 6000000,
     "ratings": [
-      { "name": "1 star", "count": 900000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 9000000 },
-      { "name": "5 star", "count": 19400000 }
+      {
+        "name": "1 star",
+        "count": 900000
+      },
+      {
+        "name": "2 star",
+        "count": 700000
+      },
+      {
+        "name": "3 star",
+        "count": 2000000
+      },
+      {
+        "name": "4 star",
+        "count": 9000000
+      },
+      {
+        "name": "5 star",
+        "count": 19400000
+      }
     ]
   },
   {
@@ -188,13 +338,28 @@
     "size": 95,
     "reviews": "77M",
     "ratingAvg": 4.5,
-    "downloads": "100M",
+    "downloads": 100000000,
     "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 2500000 },
-      { "name": "4 star", "count": 13000000 },
-      { "name": "5 star", "count": 60000000 }
+      {
+        "name": "1 star",
+        "count": 1000000
+      },
+      {
+        "name": "2 star",
+        "count": 800000
+      },
+      {
+        "name": "3 star",
+        "count": 2500000
+      },
+      {
+        "name": "4 star",
+        "count": 13000000
+      },
+      {
+        "name": "5 star",
+        "count": 60000000
+      }
     ]
   },
   {
@@ -206,13 +371,28 @@
     "size": 140,
     "reviews": "91M",
     "ratingAvg": 4.6,
-    "downloads": "35M",
+    "downloads": 35000000,
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 2400000 },
-      { "name": "4 star", "count": 11000000 },
-      { "name": "5 star", "count": 74000000 }
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 700000
+      },
+      {
+        "name": "3 star",
+        "count": 2400000
+      },
+      {
+        "name": "4 star",
+        "count": 11000000
+      },
+      {
+        "name": "5 star",
+        "count": 74000000
+      }
     ]
   },
   {
@@ -224,13 +404,28 @@
     "size": 160,
     "reviews": "44M",
     "ratingAvg": 4.7,
-    "downloads": "69M",
+    "downloads": 69000000,
     "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 300000 },
-      { "name": "3 star", "count": 1000000 },
-      { "name": "4 star", "count": 5000000 },
-      { "name": "5 star", "count": 37300000 }
+      {
+        "name": "1 star",
+        "count": 400000
+      },
+      {
+        "name": "2 star",
+        "count": 300000
+      },
+      {
+        "name": "3 star",
+        "count": 1000000
+      },
+      {
+        "name": "4 star",
+        "count": 5000000
+      },
+      {
+        "name": "5 star",
+        "count": 37300000
+      }
     ]
   },
   {
@@ -242,13 +437,28 @@
     "size": 200,
     "reviews": "37M",
     "ratingAvg": 4.4,
-    "downloads": "3M",
+    "downloads": 3000000,
     "ratings": [
-      { "name": "1 star", "count": 800000 },
-      { "name": "2 star", "count": 600000 },
-      { "name": "3 star", "count": 2200000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 25400000 }
+      {
+        "name": "1 star",
+        "count": 800000
+      },
+      {
+        "name": "2 star",
+        "count": 600000
+      },
+      {
+        "name": "3 star",
+        "count": 2200000
+      },
+      {
+        "name": "4 star",
+        "count": 8000000
+      },
+      {
+        "name": "5 star",
+        "count": 25400000
+      }
     ]
   },
   {
@@ -260,13 +470,28 @@
     "size": 180,
     "reviews": "101M",
     "ratingAvg": 4.5,
-    "downloads": "12M",
+    "downloads": 12000000,
     "ratings": [
-      { "name": "1 star", "count": 2300000 },
-      { "name": "2 star", "count": 1400000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 14000000 },
-      { "name": "5 star", "count": 79500000 }
+      {
+        "name": "1 star",
+        "count": 2300000
+      },
+      {
+        "name": "2 star",
+        "count": 1400000
+      },
+      {
+        "name": "3 star",
+        "count": 4000000
+      },
+      {
+        "name": "4 star",
+        "count": 14000000
+      },
+      {
+        "name": "5 star",
+        "count": 79500000
+      }
     ]
   },
   {
@@ -278,13 +503,28 @@
     "size": 200,
     "reviews": "98M",
     "ratingAvg": 4.5,
-    "downloads": "50M",
+    "downloads": 50000000,
     "ratings": [
-      { "name": "1 star", "count": 1900000 },
-      { "name": "2 star", "count": 1300000 },
-      { "name": "3 star", "count": 3500000 },
-      { "name": "4 star", "count": 11000000 },
-      { "name": "5 star", "count": 80300000 }
+      {
+        "name": "1 star",
+        "count": 1900000
+      },
+      {
+        "name": "2 star",
+        "count": 1300000
+      },
+      {
+        "name": "3 star",
+        "count": 3500000
+      },
+      {
+        "name": "4 star",
+        "count": 11000000
+      },
+      {
+        "name": "5 star",
+        "count": 80300000
+      }
     ]
   },
   {
@@ -296,13 +536,28 @@
     "size": 120,
     "reviews": "44M",
     "ratingAvg": 4.4,
-    "downloads": "1M",
+    "downloads": 1000000,
     "ratings": [
-      { "name": "1 star", "count": 900000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 2500000 },
-      { "name": "4 star", "count": 9000000 },
-      { "name": "5 star", "count": 31000000 }
+      {
+        "name": "1 star",
+        "count": 900000
+      },
+      {
+        "name": "2 star",
+        "count": 700000
+      },
+      {
+        "name": "3 star",
+        "count": 2500000
+      },
+      {
+        "name": "4 star",
+        "count": 9000000
+      },
+      {
+        "name": "5 star",
+        "count": 31000000
+      }
     ]
   },
   {
@@ -314,13 +569,28 @@
     "size": 170,
     "reviews": "16M",
     "ratingAvg": 4.6,
-    "downloads": "1M",
+    "downloads": 1000000,
     "ratings": [
-      { "name": "1 star", "count": 200000 },
-      { "name": "2 star", "count": 150000 },
-      { "name": "3 star", "count": 600000 },
-      { "name": "4 star", "count": 3000000 },
-      { "name": "5 star", "count": 12100000 }
+      {
+        "name": "1 star",
+        "count": 200000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 600000
+      },
+      {
+        "name": "4 star",
+        "count": 3000000
+      },
+      {
+        "name": "5 star",
+        "count": 12100000
+      }
     ]
   },
   {
@@ -332,13 +602,28 @@
     "size": 150,
     "reviews": "54M",
     "ratingAvg": 4.6,
-    "downloads": "4M",
+    "downloads": 4000000,
     "ratings": [
-      { "name": "1 star", "count": 600000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 7000000 },
-      { "name": "5 star", "count": 45000000 }
+      {
+        "name": "1 star",
+        "count": 600000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 1200000
+      },
+      {
+        "name": "4 star",
+        "count": 7000000
+      },
+      {
+        "name": "5 star",
+        "count": 45000000
+      }
     ]
   },
   {
@@ -350,13 +635,28 @@
     "size": 160,
     "reviews": "28M",
     "ratingAvg": 4.7,
-    "downloads": "9M",
+    "downloads": 9000000,
     "ratings": [
-      { "name": "1 star", "count": 300000 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 800000 },
-      { "name": "4 star", "count": 5000000 },
-      { "name": "5 star", "count": 21500000 }
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 800000
+      },
+      {
+        "name": "4 star",
+        "count": 5000000
+      },
+      {
+        "name": "5 star",
+        "count": 21500000
+      }
     ]
   },
   {
@@ -368,13 +668,28 @@
     "size": 130,
     "reviews": "16M",
     "ratingAvg": 4.3,
-    "downloads": "1M",
+    "downloads": 1000000,
     "ratings": [
-      { "name": "1 star", "count": 500000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 9900000 }
+      {
+        "name": "1 star",
+        "count": 500000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 1200000
+      },
+      {
+        "name": "4 star",
+        "count": 4000000
+      },
+      {
+        "name": "5 star",
+        "count": 9900000
+      }
     ]
   },
   {
@@ -386,13 +701,28 @@
     "size": 110,
     "reviews": "36M",
     "ratingAvg": 4.2,
-    "downloads": "5M",
+    "downloads": 5000000,
     "ratings": [
-      { "name": "1 star", "count": 900000 },
-      { "name": "2 star", "count": 600000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 7000000 },
-      { "name": "5 star", "count": 25500000 }
+      {
+        "name": "1 star",
+        "count": 900000
+      },
+      {
+        "name": "2 star",
+        "count": 600000
+      },
+      {
+        "name": "3 star",
+        "count": 2000000
+      },
+      {
+        "name": "4 star",
+        "count": 7000000
+      },
+      {
+        "name": "5 star",
+        "count": 25500000
+      }
     ]
   },
   {
@@ -404,13 +734,28 @@
     "size": 130,
     "reviews": "81M",
     "ratingAvg": 4.6,
-    "downloads": "47M",
+    "downloads": 47000000,
     "ratings": [
-      { "name": "1 star", "count": 800000 },
-      { "name": "2 star", "count": 500000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 10000000 },
-      { "name": "5 star", "count": 68000000 }
+      {
+        "name": "1 star",
+        "count": 800000
+      },
+      {
+        "name": "2 star",
+        "count": 500000
+      },
+      {
+        "name": "3 star",
+        "count": 2000000
+      },
+      {
+        "name": "4 star",
+        "count": 10000000
+      },
+      {
+        "name": "5 star",
+        "count": 68000000
+      }
     ]
   },
   {
@@ -422,13 +767,28 @@
     "size": 90,
     "reviews": "26M",
     "ratingAvg": 4.8,
-    "downloads": "78M",
+    "downloads": 78000000,
     "ratings": [
-      { "name": "1 star", "count": 200000 },
-      { "name": "2 star", "count": 150000 },
-      { "name": "3 star", "count": 600000 },
-      { "name": "4 star", "count": 5000000 },
-      { "name": "5 star", "count": 20100000 }
+      {
+        "name": "1 star",
+        "count": 200000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 600000
+      },
+      {
+        "name": "4 star",
+        "count": 5000000
+      },
+      {
+        "name": "5 star",
+        "count": 20100000
+      }
     ]
   },
   {
@@ -440,13 +800,28 @@
     "size": 150,
     "reviews": "58M",
     "ratingAvg": 4.4,
-    "downloads": "23M",
+    "downloads": 23000000,
     "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 800000 },
-      { "name": "3 star", "count": 2500000 },
-      { "name": "4 star", "count": 9000000 },
-      { "name": "5 star", "count": 44500000 }
+      {
+        "name": "1 star",
+        "count": 1200000
+      },
+      {
+        "name": "2 star",
+        "count": 800000
+      },
+      {
+        "name": "3 star",
+        "count": 2500000
+      },
+      {
+        "name": "4 star",
+        "count": 9000000
+      },
+      {
+        "name": "5 star",
+        "count": 44500000
+      }
     ]
   },
   {
@@ -454,17 +829,32 @@
     "title": "Google Photos",
     "companyName": "Google LLC",
     "id": 26,
-    "description": "Google Photos is the intelligent home for all your memories, providing a secure, cloud-based solution to back up, organize, and effortlessly find all your photos and videos in one simple, beautiful place. Never worry about running out of phone storage again; once your photos are backed up to the cloud, you can safely delete them from your device while retaining full access. The app’s standout feature is its cutting-edge, **AI-powered search capability**: you can find specific photos by searching for people, places, or even things (like 'dogs at the beach' or 'blue shirts'), without ever having to manually tag them. Memories are automatically curated into engaging collages, movies, and animated stories, offering delightful, personalized blasts from the past. Editing is simple and powerful, with one-tap fixes, advanced color correction tools, and cinematic effects to make your photos look their best. Sharing is easy, allowing you to create private albums to share with friends and family, or seamlessly send large groups of photos without size limitations. Google Photos is more than just a backup tool; it's a smart photo assistant that preserves your most cherished moments, brings them to life through machine learning, and ensures they are always accessible across all your devices, making it the definitive platform for modern memory management.",
+    "description": "Google Photos is the intelligent home for all your memories, providing a secure, cloud-based solution to back up, organize, and effortlessly find all your photos and videos in one simple, beautiful place. Never worry about running out of phone storage again; once your photos are backed up to the cloud, you can safely delete them from your device while retaining full access. The app’s standout feature is its cutting-edge, **AI-powered search capability**: you can find specific photos by searching for people, places, or even things (like 'dogs at the beach' or 'blue shirts'), without ever having to manually tag them. Memories are automatically curated into engaging collages, movies, and animated stories, offering delightful, personalized blasts from the past. Editing is simple and powerful, with one-tap fixes, advanced color correction tools, and cinematic effects to make your photos look their best. Healing features allow you to remove blemishes and unwanted objects seamlessly, while the collage maker helps you tell a story with multiple shots. Google Photos is more than just a backup tool; it's a smart photo assistant that preserves your most cherished moments, brings them to life through machine learning, and ensures they are always accessible across all your devices, making it the definitive platform for modern memory management.",
     "size": 100,
     "reviews": "52M",
     "ratingAvg": 4.6,
-    "downloads": "88M",
+    "downloads": 88000000,
     "ratings": [
-      { "name": "1 star", "count": 700000 },
-      { "name": "2 star", "count": 400000 },
-      { "name": "3 star", "count": 1800000 },
-      { "name": "4 star", "count": 8000000 },
-      { "name": "5 star", "count": 41000000 }
+      {
+        "name": "1 star",
+        "count": 700000
+      },
+      {
+        "name": "2 star",
+        "count": 400000
+      },
+      {
+        "name": "3 star",
+        "count": 1800000
+      },
+      {
+        "name": "4 star",
+        "count": 8000000
+      },
+      {
+        "name": "5 star",
+        "count": 41000000
+      }
     ]
   },
   {
@@ -476,13 +866,28 @@
     "size": 190,
     "reviews": "24M",
     "ratingAvg": 4.8,
-    "downloads": "32M",
+    "downloads": 32000000,
     "ratings": [
-      { "name": "1 star", "count": 200000 },
-      { "name": "2 star", "count": 150000 },
-      { "name": "3 star", "count": 500000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 19600000 }
+      {
+        "name": "1 star",
+        "count": 200000
+      },
+      {
+        "name": "2 star",
+        "count": 150000
+      },
+      {
+        "name": "3 star",
+        "count": 500000
+      },
+      {
+        "name": "4 star",
+        "count": 4000000
+      },
+      {
+        "name": "5 star",
+        "count": 19600000
+      }
     ]
   },
   {
@@ -494,13 +899,28 @@
     "size": 210,
     "reviews": "38M",
     "ratingAvg": 4.3,
-    "downloads": "89M",
+    "downloads": 89000000,
     "ratings": [
-      { "name": "1 star", "count": 900000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 2000000 },
-      { "name": "4 star", "count": 7000000 },
-      { "name": "5 star", "count": 28000000 }
+      {
+        "name": "1 star",
+        "count": 900000
+      },
+      {
+        "name": "2 star",
+        "count": 700000
+      },
+      {
+        "name": "3 star",
+        "count": 2000000
+      },
+      {
+        "name": "4 star",
+        "count": 7000000
+      },
+      {
+        "name": "5 star",
+        "count": 28000000
+      }
     ]
   },
   {
@@ -508,17 +928,32 @@
     "title": "Adobe Photoshop Express",
     "companyName": "Adobe Inc.",
     "id": 29,
-    "description": "Adobe Photoshop Express is the streamlined, mobile-optimized photo editor from the world's leader in creative software, allowing you to edit photos easily with advanced filters, effects, and powerful tools right from your phone or tablet. Harness the core power of Photoshop in a fast, accessible app designed for on-the-go content creators and casual users alike. You can perform quick yet professional-quality edits, from basic cropping and straightening to sophisticated one-touch corrections for color, contrast, and exposure. Dive deeper with hundreds of stunning looks, filters, and effects that instantly transform the mood and style of your images. The app features powerful tools for removing noise, blurring backgrounds, and adding artistic textures to give your photos a polished, high-end finish. Healing features allow you to remove blemishes and unwanted objects seamlessly, while the collage maker helps you tell a story with multiple shots. Adobe Photoshop Express is fully integrated with Adobe Creative Cloud, giving you the flexibility to work across multiple devices and access your creative assets easily. Whether you're touching up a selfie, preparing photos for a social media post, or making subtle adjustments to professional shots, this app provides an intuitive, feature-rich experience that ensures your pictures always look their absolute best, maintaining the high standard of quality expected from the Photoshop name.",
+    "description": "Adobe Photoshop Express is the streamlined, mobile-optimized photo editor from the world's leader in creative software, allowing you to edit photos easily with advanced filters, effects, and powerful tools right from your phone or tablet. Harness the core power of Photoshop in a fast, accessible app designed for on-the-go content creators and casual users alike. You can perform quick yet professional-quality edits, from basic cropping and straightening to sophisticated one-touch corrections for color, contrast, and exposure. Dive deeper with hundreds of stunning looks, filters, and effects, and effects that instantly transform the mood and style of your images. The app features powerful tools for removing noise, blurring backgrounds, and adding artistic textures to give your photos a polished, high-end finish. Healing features allow you to remove blemishes and unwanted objects seamlessly, while the collage maker helps you tell a story with multiple shots. Adobe Photoshop Express is fully integrated with Adobe Creative Cloud, giving you the flexibility to work across multiple devices and access your creative assets easily. Whether you're touching up a selfie, preparing photos for a social media post, or making subtle adjustments to professional shots, this app provides an intuitive, feature-rich experience that ensures your pictures always look their absolute best, maintaining the high standard of quality expected from the Photoshop name.",
     "size": 230,
     "reviews": "22M",
     "ratingAvg": 4.6,
-    "downloads": "100M",
+    "downloads": 100000000,
     "ratings": [
-      { "name": "1 star", "count": 300000 },
-      { "name": "2 star", "count": 200000 },
-      { "name": "3 star", "count": 800000 },
-      { "name": "4 star", "count": 4000000 },
-      { "name": "5 star", "count": 16700000 }
+      {
+        "name": "1 star",
+        "count": 300000
+      },
+      {
+        "name": "2 star",
+        "count": 200000
+      },
+      {
+        "name": "3 star",
+        "count": 800000
+      },
+      {
+        "name": "4 star",
+        "count": 4000000
+      },
+      {
+        "name": "5 star",
+        "count": 16700000
+      }
     ]
   },
   {
@@ -530,13 +965,28 @@
     "size": 200,
     "reviews": "68M",
     "ratingAvg": 4.5,
-    "downloads": "42M",
+    "downloads": 42000000,
     "ratings": [
-      { "name": "1 star", "count": 1500000 },
-      { "name": "2 star", "count": 1000000 },
-      { "name": "3 star", "count": 3500000 },
-      { "name": "4 star", "count": 10000000 },
-      { "name": "5 star", "count": 52000000 }
+      {
+        "name": "1 star",
+        "count": 1500000
+      },
+      {
+        "name": "2 star",
+        "count": 1000000
+      },
+      {
+        "name": "3 star",
+        "count": 3500000
+      },
+      {
+        "name": "4 star",
+        "count": 10000000
+      },
+      {
+        "name": "5 star",
+        "count": 52000000
+      }
     ]
   }
 ]

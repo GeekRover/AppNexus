@@ -13,7 +13,7 @@ const AllApps = ({data}) => {
               <span className="w-full flex justify-between gap-2">
                 <h1 className="btn text-green-500 bg-green-50">
                   <FiDownload />
-                  {data.downloads}
+                  {data.downloads/100000}M
                 </h1>
                 <h1 className="btn text-orange-500 bg-orange-50">
                   <FaRegStar />

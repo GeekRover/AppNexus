@@ -40,7 +40,7 @@ const AppDetails = () => {
                 <CgSoftwareDownload />
               </h1>
               <h1>Downloads</h1>
-              <h1 className="text-4xl font-bold">{data.downloads}</h1>
+              <h1 className="text-4xl font-bold">{data.downloads/100000}M</h1>
             </section>
             <section>
               <h1 className="text-4xl">
