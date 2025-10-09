@@ -1,5 +1,5 @@
 import { NavLink, Link } from "react-router";
-import logo from "../../public/assets/logo.png";
+import logo from "/assets/logo.png";
 import { AiFillGithub } from "react-icons/ai";
 import './active.css'
 

@@ -1,10 +1,12 @@
 import { FaAppStoreIos } from "react-icons/fa";
 import { FaGooglePlay } from "react-icons/fa";
-import hero from '../../public/assets/hero.png'
+import hero from '/assets/hero.png'
 import { Suspense } from "react";
 import Trending from "../Components/Trending";
-const dataPromise = fetch('appData.json').then(res => res.json())
+import { Link, useLoaderData } from "react-router";
+// const dataPromise = fetch('appData.json').then(res => res.json())
 const Home = () => {
+  const appData = useLoaderData()
   return (
     <div>
       <section className="flex flex-col max-w-7xl mx-auto justify-center items-center gap-6 text-center my-10">
@@ -12,9 +14,9 @@ const Home = () => {
           We Build <br /> <span className="text-purple-600">Productive</span> Apps
         </h1>
         <p className="text-[#627382] text-sm md:text-base">At AppNexus.io, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. <br /> Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
-        <span className="flex gap-3">
-            <button className="btn "> <FaGooglePlay /> Google Play</button>
-            <button className="btn"> <FaAppStoreIos />App Store</button>
+        <span className="flex gap-3 ">
+            <button className="btn text-2xl"> <FaGooglePlay /> Google Play</button>
+            <button className="btn text-2xl"> <FaAppStoreIos />App Store</button>
         </span>
       </section>
       {/* heroimg section */}
@@ -43,16 +45,17 @@ const Home = () => {
             </div>
       </section>
       {/* trending Apps */}
-      <section className="max-w-7xl mx-auto">
-        <div className="text-center space-y-4">
+      <section className=" mx-auto flex flex-col justify-center items-center">
+        <div className="text-center space-y-4 mb-10">
             <h1 className=" text-3xl md:text-5xl font-bold ">Trending Apps</h1>
             <p className="text-[#627382]">Explore All Trending Apps on the Market developed by us</p>
         </div>
-        <div>
-            <Suspense fallback={<h1>Loading....</h1>}>
-                <Trending dataPromise={dataPromise}></Trending>
-            </Suspense>
+        <div className="mb-5">
+            {/* <Suspense fallback={<h1>Loading....</h1>}> */}
+                <Trending appData={appData}></Trending>
+            {/* </Suspense> */}
         </div>
+        <Link to={"apps"}><button className="btn btn-secondary mb-5">Show All</button></Link>
       </section>
     </div>
   );
