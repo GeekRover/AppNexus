@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Your Name - Meherul Hasan Sabbir
 
 ## 🙏 Acknowledgments
 
@@ -187,4 +187,4 @@ For support, email your@email.com or open an issue in the repository.
 
 ---
 
-Made with ❤️ by Meherul Hasan Sabbir
+Made with ❤️ by BawoolTech
