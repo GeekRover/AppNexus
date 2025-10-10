@@ -4,7 +4,7 @@ import { FaRegStar } from "react-icons/fa";
 import { Link } from "react-router";
 const Tapps = ({ data }) => {
   return (
-    <Link to={`/${data.id}`}>
+    <Link to={`/apps/${data.id}`}>
     <div className="text-center bg-white rounded-xl shadow-xl p-5 space-y-2 ">
       <img src={data.image} className="mx-auto size-[200px] p-5" alt="" />
       <h1>{data.title}</h1>

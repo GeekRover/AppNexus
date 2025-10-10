@@ -1,14 +1,13 @@
-import React, { useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import { useLoaderData } from "react-router";
 import AllApps from "./AllApps";
 import ErrorIcon from "/assets/App-Error.png";
-
-
 
 const Apps = () => {
   const data = useLoaderData();
   const [search, setSearch] = useState("");
   const [sort, setSort] = useState("none");
+  const [loading, setLoading] = useState(false);
 
   const handleSearchChange = (event) => {
     setSearch(event.target.value);
@@ -18,7 +17,13 @@ const Apps = () => {
     setSort(event.target.value);
   };
 
-const filteredApps = useMemo(() => {
+  useEffect(() => {
+    setLoading(true);
+    const timer = setTimeout(() => setLoading(false), 400);
+    return () => clearTimeout(timer);
+  }, [search, sort]);
+
+  const filteredApps = useMemo(() => {
     let currentApps = data;
 
     if (search) {
@@ -27,12 +32,12 @@ const filteredApps = useMemo(() => {
         app.title.toLowerCase().includes(lowerCaseSearchTerm)
       );
     }
-    
+
     let sortedApps = [...currentApps];
 
-    if (sort === 'high-low') {
+    if (sort === "high-low") {
       sortedApps.sort((a, b) => b.downloads - a.downloads);
-    } else if (sort === 'low-high') {
+    } else if (sort === "low-high") {
       sortedApps.sort((a, b) => a.downloads - b.downloads);
     }
 
@@ -91,7 +96,11 @@ const filteredApps = useMemo(() => {
             </select>
           </div>
         </div>
-        {filteredApps.length > 0 ? (
+        {loading ? (
+          <div className="h-[400px] flex justify-center items-center">
+            <span className="loading loading-bars loading-xl"></span>
+          </div>
+        ) : filteredApps.length > 0 ? (
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {filteredApps.map((data) => (
               <AllApps data={data} key={data.id} />

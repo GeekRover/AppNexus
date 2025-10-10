@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useLoaderData } from "react-router";
 import { CgSoftwareDownload } from "react-icons/cg";
 import { FaRegStar } from "react-icons/fa";
@@ -11,18 +11,39 @@ const AppDetails = () => {
   const data = useLoaderData();
   const chartData = data.ratings;
 
-  // const chartData = dataUse.sort((a, b) => {
-  //   const aNum = parseInt(a.name);
-  //   const bNum = parseInt(b.name);
-  //   return bNum - aNum;
-  // });
+useEffect(() => {
+    const installedApps = JSON.parse(localStorage.getItem("installedApps")) || [];
+    const alreadyInstalled = installedApps.some((app) => app.id === data.id);
+    setIsInstalled(alreadyInstalled);
+  }, [data.id]);
+
+
   const [isInstalled, setIsInstalled] = useState(false);
   const handleInstallClick = () => {
-    setIsInstalled(true);
-    toast.success(`${data.title} has been installed!`);
+    const installedApps = JSON.parse(localStorage.getItem("installedApps")) || [];
+
+    
+    if (!installedApps.some((app) => app.id === data.id)) {
+      const appToSave = {
+        id: data.id,
+        title: data.title,
+        ratingAvg: data.ratingAvg,
+        size: data.size,
+        image: data.image,
+        companyName: data.companyName,
+        downloads: data.downloads,
+        reviews: data.reviews,
+      };
+
+      installedApps.push(appToSave);
+      localStorage.setItem("installedApps", JSON.stringify(installedApps));
+      toast.success(`${data.title} has been installed!`);
+      setIsInstalled(true);
+    }
   };
-  // console.log(chartData);
-  // console.log(data);
+
+ 
+  
   return (
     <div className="max-w-7xl mx-auto mb-4">
       <div className="flex md:flex-row flex-col items-center gap-5">

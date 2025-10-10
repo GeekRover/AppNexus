@@ -40,7 +40,7 @@ const Home = () => {
         <img src={hero} alt="" />
       </section>
       {/* feature */}
-      <section className="w-full bg-purple-700 text-white flex flex-col text-center justify-center gap-10 items-center md:py-20 mb-20">
+      <section className="w-full bg-linear-to-br from-purple-900 to-purple-400 text-white flex flex-col text-center justify-center gap-10 items-center md:py-20 mb-20">
         <h1 className="font-bold text-5xl">
           Trusted by Millions, Built for You
         </h1>
@@ -76,7 +76,7 @@ const Home = () => {
           {/* </Suspense> */}
         </div>
         <Link to={"apps"}>
-          <button className="btn btn-secondary mb-5">Show All</button>
+          <button className="btn bg-linear-to-r from-purple-800 to-purple-500 text-white mb-5">Show All</button>
         </Link>
       </section>
     </div>

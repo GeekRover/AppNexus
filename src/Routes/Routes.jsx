@@ -16,13 +16,13 @@ const router = createBrowserRouter([
       {
         index: true,
         path: "/",
-        loader: () => fetch("./appData.json"),
+        loader: () => fetch("/appData.json"),
         element: <Home></Home>,
       },
 
       {
         path: "/apps",
-        loader: ()=> fetch("./appData.json"),
+        loader: ()=> fetch("/appData.json"),
         Component: Apps,
       },
       {
@@ -30,7 +30,7 @@ const router = createBrowserRouter([
         Component: Installaion,
       },
       {
-        path: "/:appID",
+        path: "/apps/:appID",
         loader: async ({ params }) => {
           const res = await fetch("/appData.json");
           const data = await res.json();
